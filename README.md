@@ -56,4 +56,10 @@ gagea-biodiversity-analysis/
 │
 ├── maps/
 │
-└── README.md
+└── README.md ## Example Output
+
+### *Gagea afghanica* occurrence records
+
+The raw dataset contained 194 occurrence records. After coordinate validation and removal of exact duplicates, 175 unique occurrence records were retained for analysis.
+
+![Occurrence records of Gagea afghanica](figures/gagea_afghanica_occurrences.png)
