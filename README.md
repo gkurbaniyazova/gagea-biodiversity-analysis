@@ -56,9 +56,7 @@ gagea-biodiversity-analysis/
 │
 ├── maps/
 │
-└── README.md ## Example Output
-
-└── README.md
+└── └── README.md
 ```
 
 ## Example Output
